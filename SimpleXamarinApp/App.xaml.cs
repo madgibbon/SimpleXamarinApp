@@ -8,7 +8,7 @@ namespace SimpleXamarinApp
         {
             InitializeComponent();
 
-            MainPage = new SimpleXamarinAppPage();
+            MainPage = new MainPage();
         }
 
         protected override void OnStart()
